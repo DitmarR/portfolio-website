@@ -1,0 +1,65 @@
+*{
+     box-sizing: border-box;
+     padding: 0;
+     margin: 0;
+}*
+
+body {
+     font-size: 150%;
+     color: rgb(250, 250, 250);
+     background-image: url(./img/red-smoke-background-person-5k-3i-1920x1080.jpg);
+}
+
+nav {
+     display: flex;
+     flex-direction: row;
+     position: fixed;
+     top: 0;
+     left: 0;
+     padding: 10px 30px;
+     width: 100vw;
+     background-color: black;
+     justify-content: center;
+}
+
+nav ul{
+     display: flex;
+     list-style: none;
+}
+
+nav a{
+     font-size: 36px;
+     align-items: center;
+     padding: 6px 105px;
+     color: red;
+}
+
+nav a:hover{
+     color: rgb(99, 9, 9);
+}
+
+h5 {position: relative;
+     text-align: center;
+     margin-top: 430;
+
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 18px;
+     line-height: 21px;
+}
+
+p3 {position: absolute;
+     width: 281px;
+     height: 84px;
+     left: calc(50% - 100px/ 2 - 5.5px);
+     top: 390px;
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 26px;
+     
+}

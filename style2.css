@@ -1,0 +1,53 @@
+*{
+     box-sizing: border-box;
+     padding: 0;
+     margin: 0;
+}
+
+
+nav {
+     display: flex;
+     flex-direction: row;
+     position: fixed;
+     top: 0;
+     left: 0;
+     padding: 10px 30px;
+     width: 100vw;
+     background-color: rgb(255, 0, 0);
+     justify-content: center;
+}
+
+nav ul{
+     display: flex;
+     list-style: none;
+}
+
+nav a{
+     font-size: 36px;
+     align-items: center;
+     padding: 6px 105px;
+     color: rgb(0, 0, 0);
+}
+
+nav a:hover{
+     color: rgb(85, 85, 85);
+}
+
+h5{
+     position: absolute;
+     width: 510px;
+     height: 252px;
+     left: 443px;
+     top: 359px;
+
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 19px;
+
+}
+
+body {
+     background-image: url(img/background3.png)
+}

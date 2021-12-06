@@ -1,0 +1,9 @@
+Dit is mijn to-do-list
+
+css file aanmaken  X
+css file toevoegen aan html bestand  X
+basis tutorial css zoeken kijken en meetypen  X
+navbar ccs uitzoeken.  X
+Achtergrond veranderen met image X
+CSS position options X
+Anchor naar plaats op dezelfde pagina 
